@@ -1,0 +1,3 @@
+1775475374482:add-user --name "raghu"
+1775475395214:get-user "raghu"
+1775475412280:delete-user --id 1
